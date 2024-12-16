@@ -10,6 +10,10 @@ A React-based web application that allows users to create and visualize a chain 
 - Support for basic arithmetic operations and exponents
 - Fixed execution order: 1 → 2 → 4 → 5 → 3
 
+## Demo
+
+- <img src="./src/utils/img.png" width="30%">
+
 ## Tech Stack
 
 - React 18
